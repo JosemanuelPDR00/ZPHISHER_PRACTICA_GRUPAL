@@ -1,5 +1,7 @@
 # 🛡️ Simulación de Ataque de Phishing con Zphisher (Entorno Controlado)
 
+![Texto alternativo](./portadaZPHISHER.png)
+
 ## 📌 Descripción del proyecto
 
 Este repositorio documenta la simulación de un ataque de phishing utilizando la herramienta :contentReference[oaicite:0]{index=0} en un entorno controlado de laboratorio.
