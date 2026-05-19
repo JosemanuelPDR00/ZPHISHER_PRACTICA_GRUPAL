@@ -1,6 +1,6 @@
 # 🛡️ Simulación de Ataque de Phishing con Zphisher (Entorno Controlado)
 
-![Texto alternativo](./BANNER_PHISHING.png)
+![banner_phishing](./BANNER_PHISHING.png)
 
 ## 📌 Descripción del proyecto
 
